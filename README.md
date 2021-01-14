@@ -1,6 +1,6 @@
 # Converter Autor Artur Janiak 36331
 
-Opis :Program konwertuje wartosc dziesiętną na binarną, ósemkową i szestnastkową
+Opis: Program konwertuje wartosc dziesiętną na binarną, ósemkową i szestnastkową
 
 ## Usage
 
